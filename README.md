@@ -1,4 +1,4 @@
-# drug-supply-chain
+# pharma-supply-chain
 An Ethereum DApp that demonstrates a Supply Chain flow from a Designer of a drug along to the end user Buyer(consumer). Regulator whos responsable for approve the drug. Manufacturer can act as a owner of a drug design or bulid partner contract with a designer. A Distributor should act as middleman between manufacturer to retailer to last actor in the system consumer.
 
 [Live demo on rinkeby network.](https://drugn-drugz-ukdhcdvqtk.now.sh/)
@@ -58,12 +58,9 @@ cd frontend && npm start
 
 - Partnerships: library keep track partner in a partnership contract with known share. I write it to make project less smaller and to try the power of spilted payment contract.
 - Roles: library from Open Zeppelin contract thats keep track of a mapping list of address in any role based contract.
-  
-
-## IPFS
 
 
-## Deployed Contract Address (Rinkeby)
+## Deployed Contract Address (Rinkeby
 
 [0x9c9b36c9b8049eb954fc2a8d73fc900132521f21](https://rinkeby.etherscan.io/address/0x9c9b36c9b8049eb954fc2a8d73fc900132521f21)
 
@@ -94,10 +91,8 @@ cd frontend && npm start
 
 
 ---
-## Built With ❤️ Using:
-* [**Udacity**](https://www.udacity.com/) 
+## Built With ❤️ Using: 
 * [**Ethereum**](https://www.ethereum.org/) - Ethereum is a decentralized platform that runs smart contracts.
 * [**Truffle**](https://truffleframework.com/) - development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM).
 * [**OpenZeppelin**](https://openzeppelin.org/) -  A library for secure smart contract development. It provides implementations of standards like ERC20 and Ownable.
 * [**React**](https://openzeppelin.org/) -  A library for secure smart contract development. It provides implementations of standards like ERC20 and Ownable.
-* [**OpenZeppelin**](https://openzeppelin.org/) -  A library for secure smart contract development. It provides implementations of standards like ERC20 and Ownable.
